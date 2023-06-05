@@ -1,4 +1,3 @@
-import React from "react"
 import Card from "./components/Card";
 
 function App(){
@@ -14,8 +13,6 @@ function App(){
           }}/>
       )
   }
-
-  console.log(cards);
   
   return (
     <div>
